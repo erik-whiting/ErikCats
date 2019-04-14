@@ -29,3 +29,5 @@ Temp/UnityTempFile-06f48af8a3d47a84db84a0e9c9b832b4
 Temp/UnityTempFile-031c278fdad78f040b3e5fb81817d7bc
 Temp/UnityLockfile
 *.bakert
+*.cache
+*.bin
